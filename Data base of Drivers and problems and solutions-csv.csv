@@ -1,0 +1,21 @@
+Serial Number,Date In,Customer Name,Location,Car Make,Car Model,Engine Type,Problem/Service Requested,Request Details,Root Cause,Time Spent (hrs),Fix Completion Date,Date Out,Remarks,Comment
+1,03/01/2025,James Turner,Woking,Ford,Focus 1.6L,Petrol,Service,Annual oil change and filter replacement,Worn oil filter,2,03/01/2025,04/01/2025,Recommended brake fluid check next visit,
+2,08/01/2025,Sophia Patel,Guildford,Toyota,Yaris Hybrid,Hybrid,MOT,Routine MOT inspection,None found,1.5,08/01/2025,08/01/2025,Passed MOT without issues,
+3,15/01/2025,Tom Sanders,Woking,Nissan,Qashqai,Diesel,Fault,Engine misfiring and warning light,Faulty ignition coil,3.5,15/01/2025,16/01/2025,Replaced coil pack, test drive completed
+4,02/02/2025,Lily Chen,Farnham,BMW,X1 2.0D,Diesel,Body Work,Rear bumper dent repair,Low-speed collision damage,6,03/02/2025,03/02/2025,Paint finish matched successfully,
+5,13/02/2025,Ravi Singh,Woking,Honda,Civic,Petrol,Service,Spark plugs and air filter,Worn plugs and clogged filter,2,13/02/2025,14/02/2025,Customer declined brake pad service,
+6,19/02/2025,Mary Willis,Godalming,Audi,A3 1.4T,Petrol,MOT,Check emissions and brakes,Brake imbalance,2,19/02/2025,19/02/2025,Corrected with fluid bleed,
+7,04/03/2025,Daniel O’Brien,Farnborough,Kia,Picanto,Petrol,Fault,Strange rattling noise on acceleration,Loose heat shield,1.5,04/03/2025,04/03/2025,Tightened mounts, test drive verified
+8,11/03/2025,Emily Carter,Woking,VW,Golf GTI,Petrol,Service,Full service including fluids and belts,Worn drive belt,3.5,12/03/2025,13/03/2025,Customer satisfied, advised coolant check next month
+9,22/03/2025,George White,Basingstoke,Mercedes,A-Class 1.5D,Diesel,Body Work,Paint touch-up on rear door,Minor scratch from parking,2,23/03/2025,23/03/2025,Matched paint code successfully,
+10,01/04/2025,Ayesha Khan,Woking,Hyundai,Tucson,Hybrid,Service,Brake service and fluid replacement,Contaminated brake fluid,2.5,01/04/2025,02/04/2025,Provided maintenance tips,
+11,09/04/2025,Jack Brooks,Aldershot,Peugeot,208,Petrol,Fault,Car not starting,Dead battery and corroded terminals,2,09/04/2025,10/04/2025,Battery replaced, starter tested
+12,16/04/2025,Zara Ahmed,Farnham,Suzuki,Swift,Petrol,MOT,Annual MOT inspection,Low tire tread,1.5,16/04/2025,16/04/2025,Recommended tire replacement,
+13,03/05/2025,Ben Mason,Woking,Volvo,XC40,Diesel,Fault,Dashboard error light,Sensor fault on ABS,4,03/05/2025,04/05/2025,Sensor recalibrated, no error on test run
+14,17/05/2025,Hannah Moore,Guildford,Mazda,6 2.0L,Petrol,Body Work,Front wing repaint,Scuffed in driveway,3,18/05/2025,18/05/2025,Customer pleased with finish,
+15,29/05/2025,Rajiv Menon,Woking,Renault,Captur,Petrol,Service,Interim service,Dirty cabin filter,2,29/05/2025,30/05/2025,Cabin filter replaced, advised tyre rotation next visit
+16,06/06/2025,Isabelle Green,Godalming,Vauxhall,Astra 1.6L,Petrol,Fault,Overheating in traffic,Blocked radiator fins,3,06/06/2025,07/06/2025,Radiator flushed and cleared,
+17,14/06/2025,Oliver Nash,Woking,Skoda,Octavia Diesel,Diesel,MOT,MOT with noise complaint,Exhaust hanger broken,2,14/06/2025,15/06/2025,Hanger replaced, MOT passed
+18,25/06/2025,Chloe Brown,Farnborough,Tesla,Model 3,Electric,Fault,Software malfunction,Outdated firmware,1,25/06/2025,25/06/2025,Firmware updated, tested successfully
+19,02/07/2025,Ethan Wallace,Woking,BMW,3 Series 320d,Diesel,Service,Brake pad and disc service,Worn brake pads,3,02/07/2025,03/07/2025,Brakes replaced, road test done
+20,21/07/2025,Nina Thompson,Guildford,Jaguar,XE 2.0,Petrol,Body Work,Replace cracked rear light,Impact with post,1.5,21/07/2025,21/07/2025,Lens replaced, no wiring issues found
